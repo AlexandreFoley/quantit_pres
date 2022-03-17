@@ -1,0 +1,14 @@
+Figs.aux
+Figs.fdb_latexmk
+Figs.figlist
+Figs.fls
+Figs.log
+Figs.makefile
+Figs.pdf
+Figs.synctex.gz
+indent.log
+tikzfigs/*.dep
+tikzfigs/*.dpth
+tikzfigs/*.log
+tikzfigs/*.md5
+tikzfigs/*.pdf
